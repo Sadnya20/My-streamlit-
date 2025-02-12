@@ -1,8 +1,8 @@
 import pandas as pd
 
-def load_data(file_path):
+def load_data(data_file):
     """Load the CSV data into a DataFrame."""
-    df = pd.read_csv(file_path)
+    df = pd.read_csv(data_file)
     return df
 
 def preprocess_data(df):
