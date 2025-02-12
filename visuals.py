@@ -2,7 +2,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import pandas as pd
 import plotly.express as px
-pip install plotly
+# pip install plotly
 
 def plot_donut_chart(df):
     """Create a donut chart for top 10 city-wise investment trends."""

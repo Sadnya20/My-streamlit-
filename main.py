@@ -160,6 +160,9 @@ import streamlit as st
 import pandas as pd
 import streamlit as st
 from preprocessor import load_data, preprocess_data
+import sys
+import os
+# sys.path.append(os.path.dirname(os.path.abspath(__file__)))
 from visuals import (
     plot_donut_chart,
     plot_choropleth_map,
