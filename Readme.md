@@ -2,7 +2,7 @@
 
 ## 🌟 Overview
 **Startup Investment Analysis** is an interactive data analytics dashboard designed to explore and visualize startup funding trends. This project aims to provide insights for investors, entrepreneurs, and analysts by leveraging data-driven approaches.
-
+## 🌟 StreamlitApp:https://kxkwpxxkrvekm56n7gux6q.streamlit.app/
 ## 📌 Table of Contents
 - [📖 Introduction](#introduction)
 - [🏗 Project Structure](#project-structure)
